@@ -1,13 +1,9 @@
 # Recipe App API
 
-Source code for our course: Build a [Backend REST API with Python & Django - Advanced](https://londonappdeveloper.com/product/build-a-backend-rest-api-with-python-django-advanced/).
-
-The course teaches how to build a fully functioning REST API using:
-
- - Python
- - Django / Django-REST-Framework
- - Docker / Docker-Compose
- - Test Driven Development
+- Python
+- Django / Django-REST-Framework
+- Docker / Docker-Compose
+- Test Driven Development
 
 ## Getting started
 
